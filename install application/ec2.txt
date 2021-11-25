@@ -1,0 +1,3 @@
+sudo yum install python3-devel mysql-devel
+sudo yum install gcc
+pip3 freeze
